@@ -8,7 +8,7 @@ Aplication Demo: https://mern-proj-d5581.web.app/
 * Authorization
 * Responsive Web Design
 * CRUD operations with RESTFUL routes
-* Third party API requests(Google: Geocoding API, Maps JS API.... Amazon: S3 bucket for image storing)
+* Third party API requests(Google: Geocoding API, Maps JS API .... Amazon: S3 bucket for image storing)
 * Ability to search for a certain place among users.
 
 ## Used Technologies
