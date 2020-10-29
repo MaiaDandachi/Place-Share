@@ -1,5 +1,5 @@
 # Place Sharing 
-A MERN Web Application to share differnt places around the world between people.
+A MERN Web Application to share different places around the world between people.
 
 Aplication Demo: https://mern-proj-d5581.web.app/
 
